@@ -140,7 +140,7 @@ Bias and unfairness can emerge from the data itself or the scoring logic. For in
 
 Combines reflection and model card framing from the Module 3 guidance. :contentReference[oaicite:2]{index=2}  
 
-```markdown
+
 # 🎧 Model Card - Music Recommender Simulation
 
 ## 1. Model Name
